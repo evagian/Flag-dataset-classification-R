@@ -1,6 +1,6 @@
 # Flag-dataset-classification-R
 
-1. Introduction
+Introduction
 The data set contains details of various nations and their flags. In the first part of this project, we will try
 predicting the religion of a country from its flag’s characteristics. In order to efficiently train the models
 we will need to transform the data set into proper form and we will also need to reduce the number of
@@ -11,7 +11,7 @@ their characteristics. We will then discover the common characteristics of the c
 cluster. We hope that there will be a connection between the clusters and the religions of the within
 countries.
 
-2. Dataset
+Dataset
 The dataset consists of 30 variables, 10 of them are numeric and the rest of them are either Boolean or
 nominal. Figure 1 describes the names and the values of each variable.
 
