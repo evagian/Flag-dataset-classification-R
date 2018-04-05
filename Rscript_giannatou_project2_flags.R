@@ -12,7 +12,7 @@
 ########### 1. Classification ####################
 ##################################################
 
-countries <- read.csv("G:/Eva/Documents/master/semester 2/Statistics II/project2 - Flags/flagswheaders.csv", stringsAsFactors=FALSE)
+countries <- read.csv("/dataset/flagswheaders.csv", stringsAsFactors=FALSE)
 str(flag)
 str(countries)
 flag <- countries 
